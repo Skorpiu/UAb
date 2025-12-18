@@ -1,0 +1,160 @@
+<html>
+	<head>
+		<title>Primitivas</title>
+		<style> 
+		<!-- Definição de estilo, em CSS, para os conteúdos da página em HTML >
+			body { margin: 0 }
+			canvas { width: 100%; height: 100% }
+			#text1 {
+				position: absolute;
+				top: 0px;
+				width: 100%;
+				padding: 10px;
+				box-sizing: border-box;
+				text-align: left;
+				color: red;
+				left: 300px;
+				z-index: 1; 
+				}
+			#text2 {
+				position: absolute;
+				top: 0px;
+				width: 100%;
+				padding: 10px;
+				box-sizing: border-box;
+				text-align: left;
+				color: red;
+				left: 1000px;
+				font-size: 200%;
+				z-index: 1; 
+			}
+			#text3 {
+				position: absolute;
+				top: 300px;
+				width: 100%;
+				padding: 10px;
+				box-sizing: border-box;
+				text-align: left;
+				color: #6600ff;
+				left: 600px;
+				font-size: 100%;
+				z-index: 1; 
+			}
+			#text4 {
+				position: absolute;
+				top: 550px;
+				width: 100%;
+				padding: 10px;
+				box-sizing: border-box;
+				text-align: left;
+				color: #ffff00;
+				left: 300px;
+				font-size: 100%;
+				z-index: 1; 
+			}
+			#text5 {
+				position: absolute;
+				top: 550px;
+				width: 100%;
+				padding: 10px;
+				box-sizing: border-box;
+				text-align: left;
+				color: #ffff00;
+				left: 1000px;
+				font-size: 200%;
+				z-index: 1; 
+			}
+		</style>
+	</head>
+	<body>
+		<!-- Criação de texto (uma das formas de o fazer...) -->
+		<div id="text1">Canto direito</div>
+		<div id="text2">Canto esquerdo</div>
+		<div id="text3">Diagonal</div>
+		<div id="text4">Canto direito</div>
+		<div id="text5">Canto esquerdo</div>
+		
+		<script src="js/three.js"></script>
+		<script>
+			// Criação do render da cena e adição a página html
+			var renderer = new THREE.WebGLRenderer();
+			renderer.setSize( window.innerWidth, window.innerHeight );
+			document.body.appendChild( renderer.domElement );
+			
+			// Criação de camera virtual com projeção em perspectiva, que vai ser depois adicionada ao objeto render
+			var camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 1, 500 );
+			camera.position.set( 0, 0, 100 );
+			camera.lookAt( 0, 0, 0 );
+
+			// Criação do objeto cena que vai ser depois adicionado ao objeto render
+			var scene = new THREE.Scene();
+					
+			// Criação de geometrias, neste caso, segmentos de reta de cor e posição diferentes
+			var geometry = new THREE.Geometry();
+			geometry.vertices.push(new THREE.Vector3( -40, 40, 0) );
+			geometry.vertices.push(new THREE.Vector3( 40, 40, 0) );
+			var material = new THREE.LineBasicMaterial( { color: 0xff0000 } );
+			var lineRed = new THREE.Line( geometry, material );
+			
+			geometry = new THREE.Geometry();
+			geometry.vertices.push(new THREE.Vector3( 40, 40, 0) );
+			geometry.vertices.push(new THREE.Vector3( -40, -40, 0) );
+			material = new THREE.LineBasicMaterial( { color: 0x6600ff } );				
+			var lineViolet = new THREE.Line( geometry, material );
+			
+			geometry = new THREE.Geometry();
+			geometry.vertices.push(new THREE.Vector3( -40, -40, 0) );
+			geometry.vertices.push(new THREE.Vector3( 40, -40, 0) );
+			material = new THREE.LineBasicMaterial( { color: 0xffff00 } );				
+			var lineYellow = new THREE.Line( geometry, material );
+			
+			// Desenho do cubo deslocado
+			geometry = new THREE.BoxGeometry( 15, 15, 15 );
+			material = new THREE.MeshBasicMaterial( { color: 0x42f572 } );
+			var cube = new THREE.Mesh( geometry, material);
+			cube.position.x = 20;
+			
+			// Para desenhar as arestas do cubo
+			var edges = new THREE.EdgesGeometry( geometry );
+			var lineCube = new THREE.LineSegments( edges, new THREE.LineBasicMaterial( { color: 0xffffff } ) );
+			lineCube.position.x = 20;
+			
+			// Desenho do cone e arestas
+			geometry = new THREE.ConeGeometry( 15, 15, 15 );
+			material = new THREE.MeshBasicMaterial( { color: 0xdd42fc } );
+			var cone = new THREE.Mesh( geometry, material );
+			cone.position.x = -20;
+			
+			edges = new THREE.EdgesGeometry( geometry );
+			var lineCone = new THREE.LineSegments( edges, new THREE.LineBasicMaterial( { color: 0xffffff } ) );
+			lineCone.position.x = -20;
+			
+			// Desenho do dodecaedro e arestas
+			geometry = new THREE.DodecahedronGeometry( 5.0, 0 );
+			material = new THREE.MeshBasicMaterial( { color: 0xfcbe42 } );
+			var dodecaedro = new THREE.Mesh( geometry, material );
+			dodecaedro.position.x = -40;
+			dodecaedro.position.y = -20;
+			
+			edges = new THREE.EdgesGeometry( geometry );
+			var lineDodecaedro = new THREE.LineSegments( edges, new THREE.LineBasicMaterial( { color: 0xffffff } ) );
+			lineDodecaedro.position.x = -40;
+			lineDodecaedro.position.y = -20;
+			
+			// Adição à cena na ordem desejada
+			scene.add( lineRed );
+			scene.add( lineViolet );
+			scene.add( lineYellow );
+			scene.add( cube );
+			scene.add( cone );
+			scene.add( lineCube );
+			scene.add( lineCone );
+			scene.add( dodecaedro );
+			scene.add( lineDodecaedro );
+			
+			// Adição à cena dos objetos cena e camera virtual, para efetiva visualização na página
+			renderer.render( scene, camera );
+			
+		</script>
+	</body>
+</html>

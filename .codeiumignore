@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.o
+*.obj
+*.class
+node_modules/
+.git/
+*.pdf
+*.docx

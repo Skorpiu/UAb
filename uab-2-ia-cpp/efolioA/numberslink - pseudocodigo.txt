@@ -1,0 +1,24 @@
+Pseudo-código
+
+# Localize os quadrados (a, b) e (c, d) aleatoriamente no tabuleiro de forma a que:
+	- (a, b) e (c, d) são vizinhos um do outro, e
+	- nem (a, b) nem (c, d) pertencem a qualquer caminho produzido até agora.
+	  Se nenhum par de quadrados for encontrado em todo o tabuleiro, retorne FALHA 
+	/* Aqui, (a, b) e (c, d) são os primeiros dois quadrados no novo caminho a ser construído. */
+
+# Faça uma união das duas árvores unirPar contendo (a, b) e (c, d).
+
+# Repita enquanto o caminho atual puder ser estendido:
+	- Renomear (a, b) = (c, d).
+
+# Localize um quadrado vizinho aleatório (c, d) de (a, b) de forma a que:
+	- (c, d) não pertence a nenhum caminho produzido até agora (incluindo o atual)
+	- o único vizinho que (c, d) tem no caminho atual, parcialmente construído, é (a, b).
+
+# Se nenhum vizinho (c, d) puder ser encontrado, o caminho não pode ser mais estendido, então interrompe-se o loop.
+
+# Caso contrário, faça a união das duas árvores union-find às quais (a, b) e (c, d) pertencem.
+
+# Definir os 'endpoint flags' dos dois quadrados que estão no início e no término do novo caminho.
+
+Retorno com SUCESSO

@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "menus.h": "c",
+        "alunos.h": "c",
+        "inscricoes.h": "c",
+        "relatorio_a.h": "c",
+        "ucs.h": "c"
+    },
+    "cSpell.enableFiletypes": [
+        "!c",
+        "!plaintext"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}

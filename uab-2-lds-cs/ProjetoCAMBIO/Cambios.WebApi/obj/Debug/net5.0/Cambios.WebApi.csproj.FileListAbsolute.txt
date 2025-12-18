@@ -1,0 +1,60 @@
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.exe
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.deps.json
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.runtimeconfig.json
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\ref\Cambios.WebApi.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.pdb
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.AssemblyInfo.cs
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\staticwebassets\Cambios.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\staticwebassets\Cambios.WebApi.StaticWebAssets.xml
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\scopedcss\bundle\Cambios.WebApi.styles.css
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.csproj.CopyComplete
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\ref\Cambios.WebApi.dll
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.pdb
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.genruntimeconfig.cache
+C:\Users\pedro\Desktop\UAb\Laboratório de Desenvolvimento de Software\CAMBIOS\Cambios.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.exe
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.deps.json
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.runtimeconfig.json
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.runtimeconfig.dev.json
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\ref\Cambios.WebApi.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Cambios.WebApi.pdb
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.csprojAssemblyReference.cache
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.AssemblyInfoInputs.cache
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.AssemblyInfo.cs
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\staticwebassets\Cambios.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\staticwebassets\Cambios.WebApi.StaticWebAssets.xml
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\scopedcss\bundle\Cambios.WebApi.styles.css
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.csproj.CopyComplete
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\ref\Cambios.WebApi.dll
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.pdb
+C:\Users\Abilio\source\repos\projeto-labds\Cambios.WebApi\obj\Debug\net5.0\Cambios.WebApi.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+C:\Users\fontm\Desktop\Cena 9\ProjetoX\ProjetoX\bin\Debug\ProjetoX.exe.config
+C:\Users\fontm\Desktop\Cena 9\ProjetoX\ProjetoX\bin\Debug\ProjetoX.exe
+C:\Users\fontm\Desktop\Cena 9\ProjetoX\ProjetoX\bin\Debug\ProjetoX.pdb
+C:\Users\fontm\Desktop\Cena 9\ProjetoX\ProjetoX\obj\Debug\ProjetoPDG.csprojAssemblyReference.cache
+C:\Users\fontm\Desktop\Cena 9\ProjetoX\ProjetoX\obj\Debug\ProjetoPDG.csproj.CoreCompileInputs.cache
+C:\Users\fontm\Desktop\Cena 9\ProjetoX\ProjetoX\obj\Debug\ProjetoX.exe
+C:\Users\fontm\Desktop\Cena 9\ProjetoX\ProjetoX\obj\Debug\ProjetoX.pdb
+C:\Users\fontm\Desktop\Cena 9\ProjetoPDG\ProjetoPDG\bin\Debug\ProjetoPDG.exe.config
+C:\Users\fontm\Desktop\Cena 9\ProjetoPDG\ProjetoPDG\bin\Debug\ProjetoPDG.exe
+C:\Users\fontm\Desktop\Cena 9\ProjetoPDG\ProjetoPDG\bin\Debug\ProjetoPDG.pdb
+C:\Users\fontm\Desktop\Cena 9\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.csprojAssemblyReference.cache
+C:\Users\fontm\Desktop\Cena 9\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.csproj.CoreCompileInputs.cache
+C:\Users\fontm\Desktop\Cena 9\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.exe
+C:\Users\fontm\Desktop\Cena 9\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.pdb
+C:\Users\pedro\Desktop\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.exe
+C:\Users\pedro\Desktop\ProjetoPDG\ProjetoPDG\obj\Debug\ProjetoPDG.pdb
+C:\Users\pedro\Desktop\ProjetoPDG\ProjetoPDG\bin\Debug\ProjetoPDG.exe.config
+C:\Users\pedro\Desktop\ProjetoPDG\ProjetoPDG\bin\Debug\ProjetoPDG.exe
+C:\Users\pedro\Desktop\ProjetoPDG\ProjetoPDG\bin\Debug\ProjetoPDG.pdb
