@@ -13,14 +13,14 @@ This repository serves as a portfolio of academic work, showcasing projects deve
 | Course | Description | Technologies |
 |--------|-------------|--------------|
 | [Laboratory of Programming](uab-1-labprog-c) | Introduction to programming concepts and problem-solving | C |
-| [Financial Mathematics](uab-1-matefin-python) | Mathematical foundations for financial applications | Python |
+| [Finite Mathematics](uab-1-matefin-python) | Mathematical foundations for financial applications | Python |
 | [Operating Systems](uab-1-so-c) | Low-level system programming and OS concepts | C |
 
 ### 🎓 Second Year
 
 | Course | Description | Technologies |
 |--------|-------------|--------------|
-| [Management Fundamentals](uab-2-fg-cs) | Introduction to business and management principles | C# |
+| [Physics](uab-2-fg-cs) | Introduction to business and management principles | C# |
 | [Artificial Intelligence](uab-2-ia-cpp) | Core AI algorithms and techniques | C++ |
 | [Software Development Lab](uab-2-lds-cs) | Software engineering practices and methodologies | C# |
 | [Programming Languages](uab-2-lp-ml+pl+java) | Study of multiple programming paradigms | ML, Prolog, Java |
@@ -31,7 +31,7 @@ This repository serves as a portfolio of academic work, showcasing projects deve
 | Course | Description | Technologies |
 |--------|-------------|--------------|
 | [Computer Graphics](uab-3-cg-threejs) | 3D graphics programming and visualization | Three.js, JavaScript |
-| [Numerical Analysis](uab-3-cn-matlab) | Numerical methods and algorithms | MATLAB |
+| [Numerical Computation](uab-3-cn-matlab) | Numerical methods and algorithms | MATLAB |
 | [Web Systems and Services Lab](uab-3-lssw-html+css+js) | Web development fundamentals | HTML, CSS, JavaScript |
 | [Network Security](uab-3-src-cripto) | Cryptography and network security concepts | Various |
 
